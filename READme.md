@@ -15,7 +15,7 @@
 
 ## Description
 
-{This is a web application project for an insurance landing page. It contains content information about the insurance company and how customers can reach out to the business.}
+{This is a web application project for an insurance company. It contains content information about the insurance company and how customers can reach out to the business.}
 
 ## Setup/Installation
 
