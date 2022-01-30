@@ -107,6 +107,38 @@ li {
     text-align: center;
     margin-right: 10%;
 
+}
+.slate {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: row;
+    padding-top: 80px;
+    
+} .icons{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 70px;
+    flex-flow: row;
+}
+.Newsletter{
+    box-sizing: content-box;
+    background-color: #252B42;
+    border-style: inset;
+    height: fit-content;
+    width: fit-content;
+    
+}
+.pricing{
+    padding-top: 80px;
+    text-align: center;
+}
+
+
+
+
 
 
 @media (max-width: 768px) {
@@ -131,6 +163,9 @@ li {
     input[type=checkbox]:checked ~ .menu{
      display: block;
     }
+
+    
+    
 
 
 
