@@ -74,7 +74,7 @@ li {
 .cont2{
     flex-direction: row;
     justify-content: space-between;
-    display: inline-block;
+    display: flex
     
 }
 .box1{
@@ -82,42 +82,27 @@ li {
     height: fit-content;
     width: fit-content;
     border-style: solid;
-    margin-right: 30%;
+    float: none;
 }
 .box2{
     box-sizing: content-box;
     height: fit-content;
     width: fit-content;
     border-style: solid;
-    margin-right:48%;
+    margin-right:58%;
 }
 .box3{
     box-sizing: content-box;
     height: fit-content;
     width: fit-content;
     border-style: solid;
-    margin right: 50%;
-
 }
-.Industry{
-    margin-top: 20%;
-    text-align: center;
-    position: absolute;
-}
-.slate{
+.cont2{
     flex-direction: row;
     justify-content: space-between;
+    padding-top: 90px;
 }
-footer{
-    box-sizing: border-box;
-    height: 1px;
-    width: 100px;
-}
-.icons{
-    flex-direction: row;
-    justify-items: normal;
 
-}
 
 
 @media (max-width: 768px) {
