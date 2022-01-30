@@ -22,7 +22,7 @@
 ### Requirements
 
 + clone repository
-{
+{<https://github.com/nyakiochristine/project2>}
 *either a computer,phone,tablet or an Ipad
 *An access to the internet
 
