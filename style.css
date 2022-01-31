@@ -86,9 +86,13 @@ li {
     padding: 20px;
     margin: 10px;
     height: 200px;
-    width: 150px;
+    width: 300px;
     position: relative;
-    background-color: blue;
+    background-color:whitesmoke;
+    border-color: white;
+    bottom: 50px;
+    
+    
 }
 
 
@@ -96,13 +100,16 @@ li {
     padding:20px;
     margin:10px;
     height: 200px;
-    width: 150px;
+    width: 300px;
     position: relative;
-    background-color: brown;
+    background-color:#23A6F0;
+    bottom: 50px;
 }
 .row img{
     height: 30px;
     height: 50px;
+    justify-items: flex-start;
+    background-image: none;
 }
 
 .cont2{
@@ -189,6 +196,7 @@ li {
     padding-top: 80px;
     text-align: center;
 }
+
 
 
 
