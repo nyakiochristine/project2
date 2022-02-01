@@ -47,7 +47,6 @@ li {
 }
 
 .pt1{
-    box-shadow: -4px 0px 14px 0px rgba(0,0,0,0.75);
     border-radius: 10px;
     padding: 20px;
     text-align: center;
@@ -96,6 +95,7 @@ li {
     height: 50px;
     width: 200px;
     border-style: none;
+    color: white;
 
 
 }
@@ -107,6 +107,7 @@ li {
     background-color: transparent;
     border-style: none;
     border:1px solid white;
+    color: white;
 }
 
 .row{
@@ -334,12 +335,12 @@ li {
     width: 400px; 
     height: 40px;
     align-content: center;
-    padding bottom: 20px;
+    padding-bottom: 20px;
     color: white;
 }
 .consult{
     display: flex;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
 }
 #contact{
     position: relative;
@@ -353,6 +354,40 @@ li {
     font-size: 20px;
     position: relative;
     left: 400px;
+}
+.dropdown{
+    display: flex;
+    align-items: center;
+}
+.touch{
+    position: relative;
+    left: 800px;
+    font-size: 20px;
+}
+.resources{
+    position: relative;
+    left: 700px;
+    font-size: 20px;
+}
+.features{
+    position: relative;
+    left: 600px;
+    font-size: 20px;
+
+}
+.Legal{
+    position: relative;
+    left: 500px;
+    font-size: 20px;
+}
+.company{
+    position: relative;
+    left: 400px;
+    font-size: 20px;
+}
+footer{
+    position: relative;
+    left: 100px;
 }
 
 
